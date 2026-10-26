@@ -1,0 +1,314 @@
+#0
+Word: a; FileCount:2;file1.txt Word Count:7;file2.txt Word Count:3;
+#0
+Word: about; FileCount:1;file2.txt Word Count:1;
+#0
+Word: added; FileCount:2;file1.txt Word Count:1;file2.txt Word Count:1;
+#0
+Word: again; FileCount:1;file2.txt Word Count:1;
+#0
+Word: all; FileCount:1;file2.txt Word Count:3;
+#0
+Word: allow; FileCount:1;file1.txt Word Count:1;
+#0
+Word: also; FileCount:1;file2.txt Word Count:1;
+#0
+Word: an; FileCount:1;file1.txt Word Count:5;
+#0
+Word: and; FileCount:2;file1.txt Word Count:2;file2.txt Word Count:6;
+#0
+Word: are; FileCount:1;file2.txt Word Count:11;
+#0
+Word: arranged; FileCount:1;file2.txt Word Count:1;
+#0
+Word: as; FileCount:2;file1.txt Word Count:1;file2.txt Word Count:3;
+#0
+Word: at; FileCount:1;file1.txt Word Count:1;
+#0
+Word: avoid; FileCount:1;file2.txt Word Count:1;
+#1
+Word: back; FileCount:1;file2.txt Word Count:1;
+#1
+Word: be; FileCount:2;file1.txt Word Count:1;file2.txt Word Count:3;
+#1
+Word: brief; FileCount:1;file1.txt Word Count:1;
+#1
+Word: by; FileCount:1;file2.txt Word Count:1;
+#2
+Word: can; FileCount:1;file2.txt Word Count:1;
+#2
+Word: collected; FileCount:1;file2.txt Word Count:1;
+#2
+Word: computing; FileCount:1;file1.txt Word Count:1;
+#2
+Word: considerable; FileCount:1;file1.txt Word Count:1;
+#2
+Word: consists; FileCount:1;file1.txt Word Count:1;
+#2
+Word: contain; FileCount:1;file2.txt Word Count:1;
+#2
+Word: contains; FileCount:1;file2.txt Word Count:1;
+#2
+Word: content; FileCount:1;file1.txt Word Count:1;
+#2
+Word: converted; FileCount:1;file2.txt Word Count:1;
+#2
+Word: corpus; FileCount:1;file1.txt Word Count:1;
+#2
+Word: cost; FileCount:1;file1.txt Word Count:1;
+#2
+Word: created; FileCount:1;file2.txt Word Count:2;
+#2
+Word: creating; FileCount:1;file2.txt Word Count:1;
+#2
+Word: creation; FileCount:1;file2.txt Word Count:1;
+#3
+Word: data; FileCount:1;file1.txt Word Count:2;
+#3
+Word: database; FileCount:2;file1.txt Word Count:3;file2.txt Word Count:3;
+#3
+Word: details; FileCount:1;file2.txt Word Count:1;
+#3
+Word: document; FileCount:1;file1.txt Word Count:4;
+#3
+Word: documents; FileCount:1;file1.txt Word Count:2;
+#4
+Word: engine; FileCount:1;file1.txt Word Count:1;
+#4
+Word: engines; FileCount:1;file1.txt Word Count:1;
+#4
+Word: every; FileCount:1;file1.txt Word Count:1;
+#4
+Word: example; FileCount:1;file1.txt Word Count:1;
+#5
+Word: fast; FileCount:1;file1.txt Word Count:1;
+#5
+Word: file; FileCount:2;file1.txt Word Count:3;file2.txt Word Count:8;
+#5
+Word: files; FileCount:1;file2.txt Word Count:4;
+#5
+Word: filtered; FileCount:1;file2.txt Word Count:1;
+#5
+Word: finding; FileCount:1;file1.txt Word Count:1;
+#5
+Word: for; FileCount:2;file1.txt Word Count:2;file2.txt Word Count:1;
+#5
+Word: from; FileCount:1;file1.txt Word Count:1;
+#5
+Word: full; FileCount:1;file1.txt Word Count:1;
+#5
+Word: function; FileCount:1;file2.txt Word Count:1;
+#5
+Word: functions; FileCount:1;file1.txt Word Count:1;
+#7
+Word: hashing; FileCount:1;file2.txt Word Count:2;
+#7
+Word: have; FileCount:1;file2.txt Word Count:1;
+#8
+Word: implementing; FileCount:1;file1.txt Word Count:1;
+#8
+Word: important; FileCount:1;file1.txt Word Count:1;
+#8
+Word: in; FileCount:2;file1.txt Word Count:6;file2.txt Word Count:5;
+#8
+Word: increased; FileCount:1;file1.txt Word Count:1;
+#8
+Word: index; FileCount:2;file1.txt Word Count:6;file2.txt Word Count:5;
+#8
+Word: indexed; FileCount:1;file2.txt Word Count:1;
+#8
+Word: indexing; FileCount:2;file1.txt Word Count:1;file2.txt Word Count:3;
+#8
+Word: information; FileCount:1;file2.txt Word Count:1;
+#8
+Word: inputed; FileCount:1;file2.txt Word Count:2;
+#8
+Word: into; FileCount:1;file2.txt Word Count:1;
+#8
+Word: introduction; FileCount:1;file1.txt Word Count:1;
+#8
+Word: inverted; FileCount:1;file1.txt Word Count:3;
+#8
+Word: invertedsearch; FileCount:1;file1.txt Word Count:1;
+#8
+Word: is; FileCount:2;file1.txt Word Count:5;file2.txt Word Count:8;
+#8
+Word: it; FileCount:1;file1.txt Word Count:1;
+#8
+Word: its; FileCount:1;file1.txt Word Count:2;
+#8
+Word: itself; FileCount:1;file1.txt Word Count:1;
+#11
+Word: large; FileCount:1;file1.txt Word Count:1;
+#11
+Word: later; FileCount:1;file2.txt Word Count:1;
+#11
+Word: linked; FileCount:1;file2.txt Word Count:1;
+#11
+Word: linkedlist; FileCount:1;file2.txt Word Count:1;
+#11
+Word: list; FileCount:1;file2.txt Word Count:1;
+#11
+Word: locations; FileCount:1;file1.txt Word Count:1;
+#12
+Word: mainly; FileCount:1;file1.txt Word Count:1;
+#12
+Word: mapping; FileCount:1;file1.txt Word Count:1;
+#12
+Word: matches; FileCount:1;file2.txt Word Count:1;
+#12
+Word: may; FileCount:1;file1.txt Word Count:1;
+#12
+Word: more; FileCount:1;file2.txt Word Count:1;
+#12
+Word: most; FileCount:1;file1.txt Word Count:1;
+#13
+Word: numbers; FileCount:1;file1.txt Word Count:1;
+#14
+Word: of; FileCount:2;file1.txt Word Count:4;file2.txt Word Count:2;
+#14
+Word: on; FileCount:1;file1.txt Word Count:1;
+#14
+Word: once; FileCount:1;file2.txt Word Count:1;
+#14
+Word: ones; FileCount:1;file2.txt Word Count:1;
+#14
+Word: optimize; FileCount:1;file1.txt Word Count:1;
+#14
+Word: or; FileCount:2;file1.txt Word Count:3;file2.txt Word Count:4;
+#14
+Word: order; FileCount:1;file2.txt Word Count:1;
+#14
+Word: over; FileCount:1;file2.txt Word Count:1;
+#14
+Word: overhead; FileCount:1;file2.txt Word Count:1;
+#15
+Word: parsed; FileCount:1;file2.txt Word Count:2;
+#15
+Word: performance; FileCount:1;file1.txt Word Count:1;
+#15
+Word: popular; FileCount:1;file1.txt Word Count:1;
+#15
+Word: power; FileCount:1;file1.txt Word Count:1;
+#15
+Word: processing; FileCount:1;file1.txt Word Count:1;
+#15
+Word: produced; FileCount:1;file2.txt Word Count:1;
+#15
+Word: program; FileCount:2;file1.txt Word Count:1;file2.txt Word Count:1;
+#15
+Word: purpose; FileCount:1;file1.txt Word Count:2;
+#16
+Word: query; FileCount:1;file1.txt Word Count:1;
+#16
+Word: querying; FileCount:2;file1.txt Word Count:1;file2.txt Word Count:2;
+#17
+Word: rather; FileCount:1;file1.txt Word Count:1;
+#17
+Word: reading; FileCount:1;file2.txt Word Count:1;
+#17
+Word: related; FileCount:1;file2.txt Word Count:1;
+#17
+Word: relevant; FileCount:1;file1.txt Word Count:1;
+#17
+Word: removed; FileCount:1;file2.txt Word Count:1;
+#17
+Word: require; FileCount:1;file1.txt Word Count:1;
+#17
+Word: requirement; FileCount:1;file1.txt Word Count:1;
+#17
+Word: result; FileCount:1;file2.txt Word Count:1;
+#17
+Word: retrieval; FileCount:1;file1.txt Word Count:1;
+#18
+Word: scale; FileCount:1;file1.txt Word Count:1;
+#18
+Word: scan; FileCount:1;file1.txt Word Count:1;
+#18
+Word: search; FileCount:1;file1.txt Word Count:4;
+#18
+Word: searched; FileCount:1;file2.txt Word Count:3;
+#18
+Word: searches; FileCount:1;file1.txt Word Count:1;
+#18
+Word: searching; FileCount:1;file2.txt Word Count:2;
+#18
+Word: selected; FileCount:1;file2.txt Word Count:1;
+#18
+Word: separated; FileCount:1;file2.txt Word Count:1;
+#18
+Word: set; FileCount:1;file1.txt Word Count:1;
+#18
+Word: so; FileCount:1;file2.txt Word Count:1;
+#18
+Word: sorted; FileCount:1;file2.txt Word Count:2;
+#18
+Word: specification; FileCount:1;file1.txt Word Count:1;
+#18
+Word: speed; FileCount:1;file1.txt Word Count:1;
+#18
+Word: store; FileCount:1;file2.txt Word Count:1;
+#18
+Word: stored; FileCount:1;file2.txt Word Count:1;
+#18
+Word: storing; FileCount:1;file1.txt Word Count:2;
+#18
+Word: structure; FileCount:1;file1.txt Word Count:2;
+#18
+Word: such; FileCount:1;file1.txt Word Count:1;
+#18
+Word: systems; FileCount:1;file1.txt Word Count:1;
+#19
+Word: termed; FileCount:1;file2.txt Word Count:1;
+#19
+Word: text; FileCount:2;file1.txt Word Count:1;file2.txt Word Count:1;
+#19
+Word: than; FileCount:1;file1.txt Word Count:1;
+#19
+Word: the; FileCount:2;file1.txt Word Count:9;file2.txt Word Count:21;
+#19
+Word: then; FileCount:1;file2.txt Word Count:1;
+#19
+Word: they; FileCount:1;file2.txt Word Count:1;
+#19
+Word: this; FileCount:2;file1.txt Word Count:1;file2.txt Word Count:5;
+#19
+Word: those; FileCount:1;file2.txt Word Count:1;
+#19
+Word: thus; FileCount:1;file2.txt Word Count:1;
+#19
+Word: time; FileCount:1;file1.txt Word Count:1;
+#19
+Word: title; FileCount:1;file1.txt Word Count:1;
+#19
+Word: to; FileCount:2;file1.txt Word Count:4;file2.txt Word Count:5;
+#19
+Word: two; FileCount:1;file1.txt Word Count:1;
+#20
+Word: updated; FileCount:1;file2.txt Word Count:1;
+#20
+Word: used; FileCount:2;file1.txt Word Count:2;file2.txt Word Count:2;
+#22
+Word: we; FileCount:1;file2.txt Word Count:2;
+#22
+Word: when; FileCount:1;file1.txt Word Count:1;
+#22
+Word: which; FileCount:2;file1.txt Word Count:1;file2.txt Word Count:5;
+#22
+Word: while; FileCount:1;file2.txt Word Count:1;
+#22
+Word: whose; FileCount:1;file2.txt Word Count:1;
+#22
+Word: will; FileCount:1;file2.txt Word Count:1;
+#22
+Word: with; FileCount:1;file2.txt Word Count:1;
+#22
+Word: without; FileCount:1;file1.txt Word Count:1;
+#22
+Word: words; FileCount:2;file1.txt Word Count:1;file2.txt Word Count:7;
+#22
+Word: would; FileCount:1;file1.txt Word Count:2;
+#26
+Word: 1; FileCount:1;file1.txt Word Count:1;
+#26
+Word: 2; FileCount:1;file1.txt Word Count:1;
