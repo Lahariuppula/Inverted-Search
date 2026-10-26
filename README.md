@@ -1,4 +1,4 @@
-# Inverted Search in C
+# Inverted Search
 
 ## Description
 A menu-driven Inverted Search application developed in C to index words from multiple text files. It uses a hash table and linked lists to maintain word frequency and identify the files in which each word appears.
